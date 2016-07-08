@@ -1,5 +1,7 @@
 ## Golang logging library
 
+# Based on [https://github.com/op/go-logging](https://github.com/op/go-logging)
+
 [![godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/op/go-logging) [![build](https://img.shields.io/travis/op/go-logging.svg?style=flat)](https://travis-ci.org/op/go-logging)
 
 Package logging implements a logging infrastructure for Go. Its output format
